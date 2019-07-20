@@ -110,7 +110,7 @@ return true
 - 네비게이션 컨트롤러에 의해 생성
 - 최상위 뷰 컨트롤러가 변경될 때마다 네비게이션 컨트롤러는 네비게이션 바 업데이트
 
-![네비게이션 바 구성] (./NavigationBar&Item.png)
+![NavigationBar&Item] (./NavigationBar&Item.png)
 
 - 네비게이션 바는 네비게이션 인터페이스에서 상단에 표시
 - 네비게이션 바는 네비게이션 아이템을 가질 수 있음
