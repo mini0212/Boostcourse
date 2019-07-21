@@ -1,7 +1,7 @@
 # 뷰의 상태변화 감지 메서드
 
 
-![ViewLifeCycle](ViewLifeCycle)
+![ViewLifeCycle](./Images/ViewLifeCycle.png)
 
 ## 뷰의 상태변화 메서드
   뷰가 나타나거나 사라지는 등 뷰가 화면에서 보이는 상태가 변화할 때 호출되는 메서드
