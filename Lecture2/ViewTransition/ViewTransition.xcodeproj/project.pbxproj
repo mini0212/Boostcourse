@@ -37,6 +37,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3961877C22E318F200690872 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				39ACDA3821EDE2EB00DB3895 /* Main.storyboard */,
+				39ACDA3621EDE2EB00DB3895 /* ViewController.swift */,
+				39ACDA4721EDE33E00DB3895 /* SecondViewController.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
 		39ACDA2821EDE2EB00DB3895 = {
 			isa = PBXGroup;
 			children = (
@@ -56,9 +66,7 @@
 		39ACDA3321EDE2EB00DB3895 /* ViewTransition */ = {
 			isa = PBXGroup;
 			children = (
-				39ACDA3821EDE2EB00DB3895 /* Main.storyboard */,
-				39ACDA3621EDE2EB00DB3895 /* ViewController.swift */,
-				39ACDA4721EDE33E00DB3895 /* SecondViewController.swift */,
+				3961877C22E318F200690872 /* Main */,
 				39ACDA4621EDE31400DB3895 /* Supporting Files */,
 				39ACDA4021EDE2EC00DB3895 /* Info.plist */,
 			);

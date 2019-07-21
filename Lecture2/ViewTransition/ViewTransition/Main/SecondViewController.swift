@@ -21,4 +21,10 @@ class SecondViewController: UIViewController {
         self.navigationController?.popViewController(animated: true)
     }
 
+    @IBAction func dismissModal() {
+        self.dismiss(animated: true, completion: nil)
+    }
 }
+
+// push - 정보의 흐름, 깊이를 가지고 이동
+// modal - 단순 팝업, 입력 폼
