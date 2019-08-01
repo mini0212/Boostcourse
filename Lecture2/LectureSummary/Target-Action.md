@@ -101,3 +101,8 @@ Target-Action 디자인 패턴은 iOS 환경에서 많이 사용하는 디자인
 - allEvents
     - 시스템 이벤트를 포함한 모든 이벤트
     - UIControlEvents.allEvents
+
+
+
+
+#부스트코스 #iOS 프로그래밍
